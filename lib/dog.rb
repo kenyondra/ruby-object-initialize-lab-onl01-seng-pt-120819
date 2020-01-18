@@ -7,5 +7,5 @@ end
 
 fido = Dog.new("Fido", "Pug")
 
-fido = Dog.new("Mutt")
+fido = Dog.new("Fido")
 
